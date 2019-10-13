@@ -8,7 +8,7 @@ import pytest
 from click.testing import CliRunner
 
 from src.codecover import codecover
-from src.codecover import cli
+from codecover import cli
 
 
 @pytest.fixture
