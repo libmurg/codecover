@@ -7,7 +7,7 @@ import pytest
 
 from click.testing import CliRunner
 
-from src.codecover import codecover
+from codecover import codecover
 from codecover import cli
 
 
